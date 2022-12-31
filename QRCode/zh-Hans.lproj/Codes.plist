@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>QRCode</key>
+        <string>常用的条码类型</string>
+        <key>PDF417</key>
+        <string>常用于飞机票验证</string>
+        <key>Aztec</key>
+        <string>与QRCode雷同的条码</string>
+        <key>EAN8</key>
+        <string>用于一般市面商品</string>
+        <key>EAN13</key>
+        <string>用于书本(ISBN)或一般商品</string>
+        <key>Code39</key>
+        <string>包含0-9 A-Z的条码</string>
+        <key>Code39Mod43</key>
+        <string>与Code39相似</string>
+        <key>Code93</key>
+        <string>与Code39相似</string>
+        <key>Code128</key>
+        <string>与Code93相似</string>
+        <key>UPCE</key>
+        <string>万用条码0~9</string>
+    </dict>
+</plist>

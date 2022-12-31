@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  QRCode
+
+  Created by MartyAirLin on 9/7/14.
+  Copyright (c) 2014 MySpot. All rights reserved.
+*/
+CFBundleDisplayName="QRCapture";
+NSPhotoLibraryUsageDescription = "The photos will be used for scan BarCode";
+NSCameraUsageDescription = "The Camera will be used for scan BarCode";

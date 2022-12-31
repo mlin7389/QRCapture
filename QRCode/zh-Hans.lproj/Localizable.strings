@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  QRCode
+
+  Created by MartyAirLin on 9/7/14.
+  Copyright (c) 2014 MySpot. All rights reserved.
+*/
+"Album"="相簿";
+"Continue"="连续扫描";
+"Close"="关闭";
+"ScanRecord"="扫描记录";
+"Save"="储存";
+"Invalid"="格式不合法";
+"Warning"="警告";
+"Warning01"="此动作将会清空所有资料\n输入OK 后进行清空";
+"Cancel"="取消";
+"Confirm"="确定";
+"Error"="错误";
+"Failed"="无法成功识别照片";
+"Identify"="成功识别数 : ";
+"ScanCode"="扫描条码";
+"GenCode"="产生条码";
+"NoImage"="剪贴簿没有相片";
+"Pasteboard"="剪贴簿";
+"Source"="相片来源";
+"Cancel"="取消";
+"Photo"="相片";
+"SupportCode"="支援条码种类";
+"info"="讯息";
+"Cancel"="取消";
+"SaveDone"="储存完成!";
+"SendDone"="传送完成!";
+"SendFailed"="传送失败!";
+"Error"="发生错误!";
+"starItem"="给评";
+"feedback"="意见信箱";
+"Review1"="评价";
+"Review2"="你如你觉得好用\n可否给作者一点鼓励呢?";
+"Review3"="好呀";
+"Review4"="不再提醒";
+"Review5"="我再想想";
+"CameraDenied"="你已禁止该App使用相机，请至设定内开启允许App使用相机";
+"Cancel"="取消";
+"Go"="现在就去";
+"CameraDeniedtTitle"="相机禁用";

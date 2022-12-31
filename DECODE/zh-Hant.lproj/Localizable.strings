@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  QRCode
+
+  Created by MartyLin on 9/24/14.
+  Copyright (c) 2014 MySpot. All rights reserved.
+*/
+"A_Failed"="無法成功識別照片";
+"Done"="完成";
+"noValue"="無資料";
+"Save Done"="已儲存到相簿";
+"Got it!"="確定";
+"Save"="儲存";
+"Idenitify"="辨識";
+"QRDecode"="QRCode辨識";
+"showInfomation1"="請縮放網頁至QRCode位置\n然後按下【辨識】按鈕";
+"showInfomationTitle"="提示";
+"LED"="燈光";

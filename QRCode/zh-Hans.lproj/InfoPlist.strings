@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  QRCode
+
+  Created by MartyAirLin on 9/7/14.
+  Copyright (c) 2014 MySpot. All rights reserved.
+*/
+CFBundleDisplayName="QRCode扫描";
+NSPhotoLibraryUsageDescription = "读取相簿用于扫描相片条码";
+NSCameraUsageDescription = "相机将会用于扫描条码";

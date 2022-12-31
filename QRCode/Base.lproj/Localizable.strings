@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  QRCode
+
+  Created by MartyAirLin on 9/7/14.
+  Copyright (c) 2014 MySpot. All rights reserved.
+*/
+"Album"="Album";
+"Continue"="Serial Scan";
+"Close"="Close";
+"ScanRecord"="Scan Records";
+"Save"="Save";
+"Invalid"="format invalid.";
+"Warning"="Warning";
+"Warning01"="This action will clear all data , enter OK to confirm action?";
+"Cancel"="Cancel";
+"Confirm"="OK";
+"Error"="Error";
+"Failed"="Couldn't identify the photo.";
+"Identify"="Got Identify : ";
+"ScanCode"="Scan Code";
+"GenCode"="Generator Code";
+"NoImage"="No image in pasteboard.";
+"Pasteboard"="Pasteboard";
+"Source"="Image Source";
+"Cancel"="Cancel";
+"Photo"="Photo";
+"SupportCode"="SUPPORT";
+"info"="Info";
+"Cancel"="Cancel";
+"SaveDone"="Save done!";
+"SendDone"="Send done!";
+"SendFailed"="Send failed!";
+"Error"="Error!";
+"starItem"="Star Review";
+"feedback"="Feedback";
+"Review1"="Review";
+"Review2"="If you like it.\nGive me a little advice?";
+"Review3"="OK";
+"Review4"="Never remind";
+"Review5"="Later";
+"CameraDenied"="Access camera already Denied, Please go to setting and enbaled app to use camera";
+"Cancel"="Cancel";
+"Go"="Go now";
+"CameraDeniedtTitle"="Camera Denied";

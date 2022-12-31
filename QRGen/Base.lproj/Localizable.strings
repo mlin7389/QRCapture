@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  QRCode
+
+  Created by MartyLin on 10/8/14.
+  Copyright (c) 2014 MySpot. All rights reserved.
+*/
+"Done"="Done";
+"noValue"="No Value";
+"Save Done"="Save to album";
+"Got it!"="Got it!";
+"Save"="Save";
+"QREncoder"="QREncoder";
+"showInfomationTitle"="Infomation";

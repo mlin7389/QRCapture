@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>QRCode</key>
+	<string>Commonly used</string>
+	<key>PDF417</key>
+	<string>You can see on flight ticket</string>
+	<key>Aztec</key>
+	<string>Similar with QRCode</string>
+	<key>EAN8</key>
+	<string>Merchandise market</string>
+	<key>EAN13</key>
+	<string>Merchandise market</string>
+	<key>Code39</key>
+	<string>Include 0-9 A-Z</string>
+	<key>Code39Mod43</key>
+	<string>Similar with Code39</string>
+	<key>Code93</key>
+	<string>Similar with Code39</string>
+	<key>Code128</key>
+	<string>Similar with Code93</string>
+	<key>UPCE</key>
+	<string>Universal Product Code 0~9</string>
+</dict>
+</plist>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DECODE.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>QRCode.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>40D5CDD219D23B6400D3AFD9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4AB5DA219D3A13400C213CF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4C9E64419C987660044E604</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4C9E65A19C987B50044E604</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4C9E67319C987DC0044E604</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4C9E68819C988110044E604</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4C9E73219CD26200044E604</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4CC1A4019B82B43002EFC7A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4CC1A6419B82B43002EFC7A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

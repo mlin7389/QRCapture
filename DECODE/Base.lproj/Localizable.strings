@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  QRCode
+
+  Created by MartyLin on 9/24/14.
+  Copyright (c) 2014 MySpot. All rights reserved.
+*/
+"A_Failed"="Identify failed.";
+"Done"="Done";
+"noValue"="No Value";
+"Save Done"="Save to album";
+"Got it!"="Got it!";
+"Save"="Save";
+"Idenitify"="Decode";
+"QRDecode"="QRDecode";
+"showInfomation1"="Zoom QRCode to center\nthan tap【Decode】";
+"showInfomationTitle"="Infomation";
+"LED"="Light";

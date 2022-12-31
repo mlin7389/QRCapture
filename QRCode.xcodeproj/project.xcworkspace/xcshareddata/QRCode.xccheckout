@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4F658A1E-5C3C-4D8C-9DD2-B7B2DB29222F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QRCode</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>119C591D9E099BEC6F83C61F42A60561EE9A62E0</key>
+		<string>https://myspot.visualstudio.com/DefaultCollection/_git/QRCode2</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QRCode.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>119C591D9E099BEC6F83C61F42A60561EE9A62E0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://myspot.visualstudio.com/DefaultCollection/_git/QRCode2</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>119C591D9E099BEC6F83C61F42A60561EE9A62E0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>119C591D9E099BEC6F83C61F42A60561EE9A62E0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QRCode2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
